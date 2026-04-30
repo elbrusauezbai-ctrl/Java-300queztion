@@ -1400,8 +1400,8 @@ const rawData = `
 <variant>drag-and-drop технологиясын қолдау</variant>
 
 <question201>Бүтін тұрақтының өлшемi:</question201>
-<variantright>4 байт</variantright>
-<variant>2 байт</variant>
+<variantright>2 байт</variantright>
+<variant>4 байт</variant>
 <variant>1 байт</variant>
 <variant>8 байт</variant>
 <variant>7 байт</variant>
@@ -1455,7 +1455,7 @@ const rawData = `
 <variant>Қос тырнақша</variant>
 <variant>Ирек жақша</variant>
 
-<question209>\\v басқару тізбегі нені білдіреді?</question209>
+<question209>\\\\v басқару тізбегі нені білдіреді?</question209>
 <variantright>Вертикальді табуляция</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Тырнақша</variant>
@@ -1469,14 +1469,14 @@ const rawData = `
 <variant>Қос тырнақша</variant>
 <variant>Ирек жақша</variant>
 
-<question211>" басқару тізбегі нені білдіреді?</question211>
+<question211>\\"? басқару тізбегі нені білдіреді?</question211>
 <variantright>Қос тырнақша</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Тырнақша</variant>
 <variant>Вертикальді табуляция</variant>
 <variant>Кері қиғаш сызық</variant>
 
-<question212>\\ басқару тізбегі нені білдіреді?</question212>
+<question212>\\\\ басқару тізбегі нені білдіреді?</question212>
 <variantright>Кері қиғаш сызық</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Тырнақша</variant>
