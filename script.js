@@ -1420,49 +1420,49 @@ const rawData = `
 <variant>1 байт</variant>
 <variant>7 байт</variant>
 
-<question204>\b басқару тізбегі нені білдіреді?</question204>
+<question204>\\b басқару тізбегі нені білдіреді?</question204>
 <variantright>Бір символ артқа қайтару</variantright>
 <variant>Қоңырау</variant>
 <variant>Жаңа бетке ауыстыру</variant>
 <variant>Жаңа жолға ауысу</variant>
 <variant>Жолдың басына қайтару</variant>
 
-<question205>\f басқару тізбегі нені білдіреді?</question205>
+<question205>\\f басқару тізбегі нені білдіреді?</question205>
 <variantright>Жаңа бетке ауысу</variantright>
 <variant>Бір символ артқа қайтару</variant>
 <variant>Қоңырау</variant>
 <variant>Жаңа жолға ауыстыру</variant>
 <variant>Жолдың басына қайтару</variant>
 
-<question206>\n басқару тізбегі нені білдіреді?</question206>
+<question206>\\n басқару тізбегі нені білдіреді?</question206>
 <variantright>Жаңа жолға ауыстыру</variantright>
 <variant>Бір символ артқа қайтару</variant>
 <variant>Жаңа бетке ауыстыру</variant>
 <variant>Қоңырау</variant>
 <variant>Жолдың басына қайтару</variant>
 
-<question207>\r басқару тізбегі нені білдіреді?</question207>
+<question207>\\r басқару тізбегі нені білдіреді?</question207>
 <variantright>Жолдың басына қайтару</variantright>
 <variant>Бір символ артқа қайтару</variant>
 <variant>Жаңа бетке ауыстыру</variant>
 <variant>Жаңа жолға ауыстыру</variant>
 <variant>Қоңырау</variant>
 
-<question208>\t басқару тізбегі нені білдіреді?</question208>
+<question208>\\t басқару тізбегі нені білдіреді?</question208>
 <variantright>Көлденең табуляция</variantright>
 <variant>Вертикальді табуляция</variant>
 <variant>Тырнақша</variant>
 <variant>Қос тырнақша</variant>
 <variant>Ирек жақша</variant>
 
-<question209>\v басқару тізбегі нені білдіреді?</question209>
+<question209>\\v басқару тізбегі нені білдіреді?</question209>
 <variantright>Вертикальді табуляция</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Тырнақша</variant>
 <variant>Қос тырнақша</variant>
 <variant>Ирек жақша</variant>
 
-<question210>\’ басқару тізбегі нені білдіреді?</question210>
+<question210>\\’ басқару тізбегі нені білдіреді?</question210>
 <variantright>Тырнақша</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Вертикальді табуляция</variant>
@@ -1476,14 +1476,14 @@ const rawData = `
 <variant>Вертикальді табуляция</variant>
 <variant>Кері қиғаш сызық</variant>
 
-<question212> \ басқару тізбегі нені білдіреді?</question212>
+<question212>\\ басқару тізбегі нені білдіреді?</question212>
 <variantright>Кері қиғаш сызық</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Тырнақша</variant>
 <variant>Вертикальді табуляция</variant>
 <variant>Қос тырнақша</variant>
 
-<question213>\ u басқару тізбегі нені білдіреді?</question213>
+<question213>\\u басқару тізбегі нені білдіреді?</question213>
 <variantright>Unicode символын кодтау</variantright>
 <variant>Көлденең табуляция</variant>
 <variant>Қос тырнақша</variant>
